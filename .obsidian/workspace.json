@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL Injection/1-SQL Injection vuln WHERE.md",
+                "file": "LABS/Progresion.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL Injection/1-SQL Injection vuln WHERE.md",
+                "file": "LABS/Progresion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL Injection/1-SQL Injection vuln WHERE.md",
+                "file": "LABS/Progresion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL Injection/1-SQL Injection vuln WHERE.md"
+                "file": "LABS/Progresion.md"
               }
             }
           }
@@ -148,15 +148,18 @@
   },
   "active": "ff9d370cde5c33ab",
   "lastOpenFiles": [
+    "Miscellaneous/Unprotected admin functionality.md",
+    "Path Traversal/Path Traversal.md",
+    "SQL Injection/3-SQL injection attack, querying the database type and version on ORACLE.md",
     "SQL Injection/2-SQL injection vuln allowing login bypass.md",
     "SQL Injection/1-SQL Injection vuln WHERE.md",
     "LABS/Progresion.md",
+    "XSS/XSS.md",
     "Pasted image 20231205120539.png",
     "LABS",
-    "XSS/Stored XSS.md",
     "SQL Injection/Untitled",
     "XXE",
-    "Web Cache Poisoning",
+    "SSRF/Web Cache Poisoning",
     "SSRF",
     "SQL Injection",
     "Path Traversal",
