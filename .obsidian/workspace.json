@@ -14,21 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "c53ba44f9be94267",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "XSS/test en xss.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "XSS/test en xss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "XSS/test en xss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "XSS/test en xss.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,10 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c53ba44f9be94267",
+  "active": "ff9d370cde5c33ab",
   "lastOpenFiles": [
-    "SQL Injection/SQLTEST.md",
     "XSS/test en xss.md",
+    "SQL Injection/SQLTEST.md",
     "TEST.md"
   ]
 }
