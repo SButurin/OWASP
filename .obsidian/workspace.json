@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "XSS/Stored XSS.md",
+                "file": "SQL Injection/TESTING EN SQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "XSS/Stored XSS.md",
+                "file": "SQL Injection/TESTING EN SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "XSS/Stored XSS.md",
+                "file": "SQL Injection/TESTING EN SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "XSS/Stored XSS.md"
+                "file": "SQL Injection/TESTING EN SQL.md"
               }
             }
           }
@@ -146,8 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1777fbc1159a16ce",
+  "active": "ff9d370cde5c33ab",
   "lastOpenFiles": [
+    "XSS/Stored XSS.md",
+    "SQL Injection/TESTING EN SQL.md",
+    "SQL Injection/Untitled",
     "XXE",
     "Web Cache Poisoning",
     "SSRF",
@@ -157,10 +160,7 @@
     "JWT",
     "HTTP Request Smuggling",
     "CSRF",
-    "ClickJacking",
-    "API Testing",
     "TEST.md",
-    "XSS/Stored XSS.md",
     "XSS/test en xss.md",
     "SQL Injection/SQLTEST.md"
   ]
