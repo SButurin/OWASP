@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL Injection/2-SQL injection vuln allowing login bypass.md",
+                "file": "SQL Injection/1-SQL Injection vuln WHERE.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL Injection/2-SQL injection vuln allowing login bypass.md",
+                "file": "SQL Injection/1-SQL Injection vuln WHERE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL Injection/2-SQL injection vuln allowing login bypass.md",
+                "file": "SQL Injection/1-SQL Injection vuln WHERE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL Injection/2-SQL injection vuln allowing login bypass.md"
+                "file": "SQL Injection/1-SQL Injection vuln WHERE.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "ff9d370cde5c33ab",
   "lastOpenFiles": [
-    "SQL Injection/1-SQL Injection vuln WHERE.md",
     "SQL Injection/2-SQL injection vuln allowing login bypass.md",
+    "SQL Injection/1-SQL Injection vuln WHERE.md",
     "LABS/Progresion.md",
     "Pasted image 20231205120539.png",
     "LABS",
