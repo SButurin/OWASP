@@ -146,12 +146,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff9d370cde5c33ab",
+  "active": "1777fbc1159a16ce",
   "lastOpenFiles": [
+    "XXE",
+    "Web Cache Poisoning",
+    "SSRF",
+    "SQL Injection",
+    "Path Traversal",
+    "Miscellaneous",
+    "JWT",
+    "HTTP Request Smuggling",
+    "CSRF",
+    "ClickJacking",
+    "API Testing",
+    "TEST.md",
     "XSS/Stored XSS.md",
-    "XSS",
     "XSS/test en xss.md",
-    "SQL Injection/SQLTEST.md",
-    "TEST.md"
+    "SQL Injection/SQLTEST.md"
   ]
 }
