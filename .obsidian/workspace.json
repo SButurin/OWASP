@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL Injection/TESTING EN SQL.md",
+                "file": "LABS/Progresion.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL Injection/TESTING EN SQL.md",
+                "file": "LABS/Progresion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL Injection/TESTING EN SQL.md",
+                "file": "LABS/Progresion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL Injection/TESTING EN SQL.md"
+                "file": "LABS/Progresion.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "ff9d370cde5c33ab",
   "lastOpenFiles": [
-    "XSS/Stored XSS.md",
     "SQL Injection/TESTING EN SQL.md",
+    "LABS/Progresion.md",
+    "LABS",
+    "XSS/Stored XSS.md",
     "SQL Injection/Untitled",
     "XXE",
     "Web Cache Poisoning",
@@ -159,7 +161,6 @@
     "Miscellaneous",
     "JWT",
     "HTTP Request Smuggling",
-    "CSRF",
     "TEST.md",
     "XSS/test en xss.md",
     "SQL Injection/SQLTEST.md"
