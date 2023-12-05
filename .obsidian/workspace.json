@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "e99e73ccd8947324",
@@ -148,7 +148,7 @@
   },
   "active": "ff9d370cde5c33ab",
   "lastOpenFiles": [
-    "SQL Injection/TESTING EN SQL.md",
+    "SQL Injection/SQL Injection vuln WHERE.md",
     "LABS/Progresion.md",
     "LABS",
     "XSS/Stored XSS.md",
