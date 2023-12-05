@@ -20,4 +20,7 @@ SELECT * FROM products WHERE category = 'Gifts' AND released = 1 'or 1=1 --'
 The -- comments the rest of the query so it will ignore the rest because it could be something like:
 
 SELECT * FROM products WHERE category = 'Gifts' AND released = 1 AND permission= Admin
-![[Pasted image 20231205120539.png]]
+
+
+
+
