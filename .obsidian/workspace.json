@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LABS/Progresion.md",
+                "file": "Miscellaneous/Horizontal to vertical privilege escalation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LABS/Progresion.md",
+                "file": "Miscellaneous/Horizontal to vertical privilege escalation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LABS/Progresion.md",
+                "file": "Miscellaneous/Horizontal to vertical privilege escalation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LABS/Progresion.md"
+                "file": "Miscellaneous/Horizontal to vertical privilege escalation.md"
               }
             }
           }
@@ -148,12 +148,12 @@
   },
   "active": "ff9d370cde5c33ab",
   "lastOpenFiles": [
-    "Miscellaneous/Horizontal to vertical privilege escalation.md",
     "Miscellaneous/Horizontal privilege escalation.md",
+    "LABS/Progresion.md",
+    "Miscellaneous/Horizontal to vertical privilege escalation.md",
     "Miscellaneous/Parameter-based access control methods.md",
     "Miscellaneous/Unprotected admin functionality.md",
     "Path Traversal/Path Traversal.md",
-    "LABS/Progresion.md",
     "SQL Injection/3-SQL injection attack, querying the database type and version on ORACLE.md",
     "SQL Injection/2-SQL injection vuln allowing login bypass.md",
     "SQL Injection/1-SQL Injection vuln WHERE.md",

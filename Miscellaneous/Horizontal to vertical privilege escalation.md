@@ -7,3 +7,6 @@ An attacker might be able to gain access to another user's account page using th
 `https://insecure-website.com/myaccount?id=456`
 
 If the target user is an application administrator, then the attacker will gain access to an administrative account page. This page might disclose the administrator's password or provide a means of changing it, or might provide direct access to privileged functionality.
+
+
+In this lab we only need to change th ID on the link intercepting with burp will give us the plain text password from the administrator user
