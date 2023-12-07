@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSRF/SSRF.md",
+                "file": "Miscellaneous/FILE UPLOADS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SSRF/SSRF.md",
+                "file": "Miscellaneous/FILE UPLOADS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SSRF/SSRF.md",
+                "file": "Miscellaneous/FILE UPLOADS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SSRF/SSRF.md"
+                "file": "Miscellaneous/FILE UPLOADS.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "d785b9f224e64d5d",
   "lastOpenFiles": [
-    "Untitled.md",
     "SSRF/SSRF.md",
+    "Miscellaneous/FILE UPLOADS.md",
+    "Untitled.md",
     "Miscellaneous/Horizontal to vertical privilege escalation.md",
     "Brute/usernames.txt",
     "Brute/passwords.txt",
