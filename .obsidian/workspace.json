@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Miscellaneous/FILE UPLOADS.md",
+                "file": "LABS/Progresion.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Miscellaneous/FILE UPLOADS.md",
+                "file": "LABS/Progresion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Miscellaneous/FILE UPLOADS.md",
+                "file": "LABS/Progresion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Miscellaneous/FILE UPLOADS.md"
+                "file": "LABS/Progresion.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "d785b9f224e64d5d",
   "lastOpenFiles": [
+    "Pasted image 20231207033524.png",
+    "Miscellaneous/OS Commands Injection.md",
+    "Miscellaneous/shell.php",
+    "Miscellaneous/File Uploads.md",
+    "shell.php",
     "SSRF/SSRF.md",
-    "Miscellaneous/FILE UPLOADS.md",
     "Untitled.md",
     "Miscellaneous/Horizontal to vertical privilege escalation.md",
     "Brute/usernames.txt",
@@ -170,8 +174,6 @@
     "LABS",
     "SQL Injection/Untitled",
     "XXE",
-    "SSRF/Web Cache Poisoning",
-    "SSRF",
     "TEST.md",
     "XSS/test en xss.md",
     "SQL Injection/SQLTEST.md"
