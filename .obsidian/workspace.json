@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5a322ecdf708d33f",
+        "id": "da84adf9df1d52c1",
         "type": "tabs",
         "children": [
           {
-            "id": "ff9d370cde5c33ab",
+            "id": "d785b9f224e64d5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Miscellaneous/Horizontal to vertical privilege escalation.md",
+                "file": "SSRF/SSRF.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Miscellaneous/Horizontal to vertical privilege escalation.md",
+                "file": "SSRF/SSRF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Miscellaneous/Horizontal to vertical privilege escalation.md",
+                "file": "SSRF/SSRF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Miscellaneous/Horizontal to vertical privilege escalation.md"
+                "file": "SSRF/SSRF.md"
               }
             }
           }
@@ -146,15 +146,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff9d370cde5c33ab",
+  "active": "d785b9f224e64d5d",
   "lastOpenFiles": [
+    "Untitled.md",
+    "SSRF/SSRF.md",
+    "Miscellaneous/Horizontal to vertical privilege escalation.md",
+    "Brute/usernames.txt",
+    "Brute/passwords.txt",
+    "passwords.txt",
+    "usernames.txt",
+    "Brute",
     "Miscellaneous/Parameter-based access control methods.md",
     "Miscellaneous/Unprotected admin functionality.md",
     "Path Traversal/Path Traversal.md",
     "SQL Injection/1-SQL Injection vuln WHERE.md",
     "SQL Injection/2-SQL injection vuln allowing login bypass.md",
     "SQL Injection/3-SQL injection attack, querying the database type and version on ORACLE.md",
-    "Miscellaneous/Horizontal to vertical privilege escalation.md",
     "Miscellaneous/Horizontal privilege escalation.md",
     "LABS/Progresion.md",
     "XSS/XSS.md",
@@ -164,11 +171,6 @@
     "XXE",
     "SSRF/Web Cache Poisoning",
     "SSRF",
-    "SQL Injection",
-    "Path Traversal",
-    "Miscellaneous",
-    "JWT",
-    "HTTP Request Smuggling",
     "TEST.md",
     "XSS/test en xss.md",
     "SQL Injection/SQLTEST.md"
